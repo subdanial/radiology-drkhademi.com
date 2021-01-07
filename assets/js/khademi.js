@@ -1,0 +1,1 @@
+$(".pp-tooltip").css('font-family', 'yekan-bakh-bold');

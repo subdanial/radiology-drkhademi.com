@@ -1,0 +1,48 @@
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+::-webkit-scrollbar-track {
+  box-shadow: inset 0 0 5px #dddddd;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #D04C96;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #D04C96;
+}
+
+body {
+  font-family: "yekan-bakh-regular", sans-serif;
+}
+
+h1,
+h2 {
+  font-family: "yekan-bakh-fat", sans-serif;
+}
+
+h3,
+h4,
+h5,
+h6 {
+  font-family: "yekan-bakh-bold", sans-serif;
+}
+
+.overlay-menu {
+  background-color: #D04C96;
+}
+
+.title-content {
+  top: 0;
+  margin-bottom: 20px;
+}
+
+#map {
+  margin-bottom: 30px;
+}
+
+.text-muted {
+  font-family: "Vazir-FD-WOL";
+}

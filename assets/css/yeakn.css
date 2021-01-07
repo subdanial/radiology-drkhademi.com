@@ -1,0 +1,63 @@
+@font-face {
+    font-family: 'yekan-bakh-bold';
+    src: url('../font/yekan-bakh-bold/yekan bakh en 06 bold.eot') format('embedded-opentype'), url('../font/yekan-bakh-bold/yekan bakh en 06 bold.eot?#iefix') format('embedded-opentype'), url('../font/yekan-bakh-bold/yekan bakh en 06 bold.ttf') format('truetype'), url('../font/yekan-bakh-bold/yekan bakh en 06 bold.woff') format('woff');
+    font-style: normal;
+    font-weight: 400;
+    font-display: auto
+}
+
+@font-face {
+    font-family: 'yekan-bakh-fat';
+    src: url('../font/yekan-bakh-fat/yekan bakh en 08 fat.eot') format('embedded-opentype'), url('../font/yekan-bakh-fat/yekan bakh en 08 fat.eot?#iefix') format('embedded-opentype'), url('../font/yekan-bakh-fat/yekan bakh en 08 fat.ttf') format('truetype'), url('../font/yekan-bakh-fat/yekan bakh en 08 fat.woff') format('woff');
+    font-style: normal;
+    font-weight: 400;
+    font-display: auto
+}
+
+@font-face {
+    font-family: 'yekan-bakh-hairline';
+    src: url('../font/yekan-bakh-hairline/yekan bakh en 01 hairline.eot') format('embedded-opentype'), url('../font/yekan-bakh-hairline/yekan bakh en 01 hairline.eot?#iefix') format('embedded-opentype'), url('../font/yekan-bakh-hairline/yekan bakh en 01 hairline.ttf') format('truetype'), url('../font/yekan-bakh-hairline/yekan bakh en 01 hairline.woff') format('woff');
+    font-style: normal;
+    font-weight: 400;
+    font-display: auto
+}
+
+@font-face {
+    font-family: 'yekan-bakh-heavy';
+    src: url('../font/yekan-bakh-heavy/yekan bakh en 07 heavy.eot') format('embedded-opentype'), url('../font/yekan-bakh-heavy/yekan bakh en 07 heavy.eot?#iefix') format('embedded-opentype'), url('../font/yekan-bakh-heavy/yekan bakh en 07 heavy.ttf') format('truetype'), url('../font/yekan-bakh-heavy/yekan bakh en 07 heavy.woff') format('woff');
+    font-style: normal;
+    font-weight: 400;
+    font-display: auto
+}
+
+@font-face {
+    font-family: 'yekan-bakh-light';
+    src: url('../font/yekan-bakh-light/yekan bakh en 03 light.eot') format('embedded-opentype'), url('../font/yekan-bakh-light/yekan bakh en 03 light.eot?#iefix') format('embedded-opentype'), url('../font/yekan-bakh-light/yekan bakh en 03 light.ttf') format('truetype'), url('../font/yekan-bakh-light/yekan bakh en 03 light.woff') format('woff');
+    font-style: normal;
+    font-weight: 400;
+    font-display: auto
+}
+
+@font-face {
+    font-family: 'yekan-bakh-medium';
+    src: url('../font/yekan-bakh-medium/yekan bakh en 05 medium.eot') format('embedded-opentype'), url('../font/yekan-bakh-medium/yekan bakh en 05 medium.eot?#iefix') format('embedded-opentype'), url('../font/yekan-bakh-medium/yekan bakh en 05 medium.ttf') format('truetype'), url('../font/yekan-bakh-medium/yekan bakh en 05 medium.woff') format('woff');
+    font-style: normal;
+    font-weight: 400;
+    font-display: auto
+}
+
+@font-face {
+    font-family: 'yekan-bakh-regular';
+    src: url('../font/yekan-bakh-regular/yekan bakh en 04 regular.eot') format('embedded-opentype'), url('../font/yekan-bakh-regular/yekan bakh en 04 regular.eot?#iefix') format('embedded-opentype'), url('../font/yekan-bakh-regular/yekan bakh en 04 regular.ttf') format('truetype'), url('../font/yekan-bakh-regular/yekan bakh en 04 regular.woff') format('woff');
+    font-style: normal;
+    font-weight: 400;
+    font-display: auto
+}
+
+@font-face {
+    font-family: 'yekan-bakh-thin';
+    src: url('../font/yekan-bakh-thin/yekan bakh en 02 thin.eot') format('embedded-opentype'), url('../font/yekan-bakh-thin/yekan bakh en 02 thin.eot?#iefix') format('embedded-opentype'), url('../font/yekan-bakh-thin/yekan bakh en 02 thin.ttf') format('truetype'), url('../font/yekan-bakh-thin/yekan bakh en 02 thin.woff') format('woff');
+    font-style: normal;
+    font-weight: 400;
+    font-display: auto
+}
